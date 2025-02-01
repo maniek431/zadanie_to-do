@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\manie\Desktop\rekrutacja laravel\zadanie\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
