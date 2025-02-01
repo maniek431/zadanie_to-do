@@ -1,9 +1,10 @@
 Uruchomienie zadania:
 1. Upewnij się, że na serwerze jest zainstalowany Composer
 2. Skopiuj pliki z zadaniem do folderu htdocs
-3. Wypakuj pliki zip node_modules oraz vendor (pliki zip, ograniczenia)
-4. Utwórz nową bazę danych
-5. W pliku .env podaj dane serwera mysql:
+3. Wypakuj plik zip node_modules oraz vendor ( ograniczenia)
+4. Wypakuj plik vendor.zip ze strony 
+5. Utwórz nową bazę danych
+6. W pliku .env podaj dane serwera mysql:
 
  DB_CONNECTION=
  DB_HOST=
